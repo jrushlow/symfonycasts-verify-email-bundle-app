@@ -45,7 +45,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "src/",
-            "SymfonyCasts\\Bundle\\VerifyEmail\\": ".verify-email-bundle/"
+            "SymfonyCasts\\Bundle\\VerifyEmail\\": ".verify-email-bundle/src/"
         }
     },
     "autoload-dev": {
