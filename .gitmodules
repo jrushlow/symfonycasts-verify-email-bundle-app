@@ -1,0 +1,9 @@
+[submodule ".docker"]
+	path = .docker
+	url = https://github.com/jrushlow/docker-symfony
+[submodule ".maker-bundle"]
+	path = .maker-bundle
+	url = https://github.com/symfony/maker-bundle
+[submodule ".maker-bundle-fork"]
+	path = .maker-bundle-fork
+	url = https://github.com/jrushlow/maker-bundle
