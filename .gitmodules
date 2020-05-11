@@ -7,3 +7,6 @@
 [submodule ".maker-bundle-fork"]
 	path = .maker-bundle-fork
 	url = https://github.com/jrushlow/maker-bundle
+[submodule ".verify-email-bundle"]
+	path = .verify-email-bundle
+	url = https://github.com/symfonycasts/verify-email-bundle
